@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fcoder-icon-programming-languages-web-development-tre-trendy-flat-style-isolated-blue-background-image152104143&psig=AOvVaw30Nsrj44CI7H_yAZiyxVdC&ust=1682703303468000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjCydvMyv4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://codersera.com/blog/10-steps-to-become-a-top-coder/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh9044&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh9044" /> </p>
 
