@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Farchive.org%2Fserve%2Fd64_Coder-Virus_Killer_v0.9_1991_Lower_Level%2Fd64_Coder-Virus_Killer_v0.9_1991_Lower_Level_screenshot.gif&tbnid=BdDqcxG8aWmWdM&vet=10CCcQMyh1ahcKEwiAspjLz8r-AhUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Farchive.org%2Fdetails%2Fd64_Coder-Virus_Killer_v0.9_1991_Lower_Level&docid=yr-F0P01shIBSM&w=542&h=384&itg=1&q=gif%20coder&ved=0CCcQMyh1ahcKEwiAspjLz8r-AhUAAAAAHQAAAAAQAw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh9044&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh9044" /> </p>
 
