@@ -4,9 +4,9 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **Projects related frontend**
+- 🔭 I’m currently working on **Projects related Full stack**
 
-- 🌱 I’m currently learning **React Js,Javascript**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **Ada9021ada@gmail.com**
 
